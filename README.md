@@ -1,6 +1,6 @@
 # AID Studio — AI Drama & Motion Comic Creation
 
-**English** · [扫码加入开源交流群](#community-and-feedback)
+**English** · [日本語](README.ja.md) · [扫码加入开源交流群](#community-and-feedback)
 
 **AID Studio is an open-source AI motion comic creation platform for AI short dramas, films and comics, with an end-to-end workflow from scripts and storyboards to video and voiceovers.**
 
