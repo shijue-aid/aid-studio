@@ -1009,6 +1009,7 @@ public class VolcengineVideoProviderClient implements VideoProviderClient {
         return VolcengineConstants.VENDOR_STATUS_SUCCEEDED.equals(lower)
                 || VolcengineConstants.VENDOR_STATUS_FAILED.equals(lower)
                 || "queued".equals(lower)
+                || "pending".equals(lower)
                 || "running".equals(lower)
                 || "processing".equals(lower);
     }
